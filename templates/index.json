@@ -220,6 +220,89 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "event_highlights": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Dancing under the Diamond Lights",
+            "text": "<p>Experience a dazzling light show every 30 minutes in the UK's Largest Light Tunnel!</p>",
+            "link_label": "Learn More",
+            "link": "shopify://pages/light-show"
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "UK's Largest Twinkly Pro Lighting Tree",
+            "text": "<p>Walk through our magnificent tree adorned with state-of-the-art Twinkly Pro lights.</p>",
+            "link_label": "See the Tree",
+            "link": "shopify://pages/twinkly-tree"
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Supper with Santa",
+            "text": "<p>Enjoy a magical dinner overlooking the water's edge with Santa himself!</p>",
+            "link_label": "Book Now",
+            "link": "shopify://pages/santa-supper"
+          }
+        },
+        "column4": {
+          "type": "column",
+          "settings": {
+            "title": "Field of Diamond Ice",
+            "text": "<p>Explore our enchanting field of sparkling ice sculptures and light installations.</p>",
+            "link_label": "Discover More",
+            "link": "shopify://pages/ice-field"
+          }
+        },
+        "column5": {
+          "type": "column",
+          "settings": {
+            "title": "Moons and Stars",
+            "text": "<p>Gaze at our celestial-themed light displays, bringing the night sky to life.</p>",
+            "link_label": "View Gallery",
+            "link": "shopify://pages/moons-and-stars"
+          }
+        },
+        "column6": {
+          "type": "column",
+          "settings": {
+            "title": "Supporting Our Community",
+            "text": "<p>A portion of all ticket sales goes to local charities. Help us make a difference this holiday season!</p>",
+            "link_label": "Our Charity Partners",
+            "link": "shopify://pages/charity"
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3",
+        "column4",
+        "column5",
+        "column6"
+      ],
+      "settings": {
+        "title": "DiamondLights Spectacular",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "See All Attractions",
+        "button_link": "shopify://pages/attractions",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -228,6 +311,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "event_highlights"
   ]
 }
