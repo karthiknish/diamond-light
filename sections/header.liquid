@@ -231,8 +231,9 @@
     %}
 
     {%- if section.settings.logo_position == 'middle-center' -%}
-      <div class='heading__other'>
+    
       <h1 class="header__heading">
+          <div class='heading__other'>
           <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
             {%- if settings.logo != blank -%}
               <div class="header__heading-logo-wrapper">
@@ -254,7 +255,7 @@
               <span class="h2">{{ shop.name }}</span>
             {%- endif -%}
           </a>
-<div class="header__heading-date-time">
+                      <div class="header__heading-date-time">
           <span class="header__heading-date">6th Dec to 5th Jan</span>
           <span class="header__heading-time">3PM to 8PM</span>
 </div>
