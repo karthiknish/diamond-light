@@ -70,6 +70,21 @@
       padding-top: 0.5rem;
     }
   }
+
+  .book-now-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 20px;
+  }
+
+  .book-now-button:hover {
+    background-color: #45a049;
+  }
 </style>
 
 {%- style -%}
@@ -278,6 +293,8 @@
           </div>
         {%- endif -%}
       </a>
+
+      <a href="https://diamondlights.uk/products/diamondlights-christmas-market" class="book-now-button">Book Now</a>
     </div>
   </header>
 </{% if section.settings.sticky_header_type != 'none' %}sticky-header{% else %}div{% endif %}>
