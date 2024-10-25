@@ -29,12 +29,12 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "shopify://pages/christmas-market",
+            "button_label_1": "Book Now",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": false,
-            "button_label_2": "Shop Holiday Collection",
+            "button_label_2": "",
             "button_link_2": "shopify://collections/holiday",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
@@ -45,13 +45,13 @@
       ],
       "settings": {
         "image": "shopify://shop_images/Vintage_Christmas_Card.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 50,
         "image_height": "large",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-1",
-        "image_behavior": "none",
+        "image_behavior": "ambient",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
