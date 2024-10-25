@@ -126,18 +126,8 @@
           "settings": {
             "caption": "Caption",
             "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_6MJ7MK": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "text": "<p>❄️ Stroll through the Field of Diamond Ice, a sparkling spectacle that will take your breath away.<br/><br/>🌌 Marvel at the enchanting Moons and Stars, adding a touch of celestial magic to the atmosphere.</p>",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -146,8 +136,7 @@
         "row_rzKhrT",
         "row_giwq8F",
         "row_zdrX4V",
-        "row_nULpxi",
-        "row_6MJ7MK"
+        "row_nULpxi"
       ],
       "settings": {
         "image_height": "medium",
