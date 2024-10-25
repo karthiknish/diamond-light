@@ -96,12 +96,12 @@
   .header__heading-date {
     font-weight: bold;
     margin-left: 15px;
-     font-size: 1rem;
+     font-size: 1.5rem;
   }
   .header__heading-time{
      font-weight: bold;
     margin-left: 15px;
-     font-size: 1rem;
+     font-size: 1.5rem;
   }
 
 </style>
@@ -231,8 +231,10 @@
               <span class="h2">{{ shop.name }}</span>
             {%- endif -%}
           </a>
+        <div style="display: flex; flex-direction: column; align-items: center;">
           <span class="header__heading-date">6th Dec to 5th Jan</span>
           <span class="header__heading-time">3PM to 8PM</span>
+          </div>>
       {%- if request.page_type == 'index' -%}
         </h1>
       {%- endif -%}
