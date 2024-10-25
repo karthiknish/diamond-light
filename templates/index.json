@@ -116,6 +116,7 @@
         "row_rzKhrT": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/Immerse_UK_Light_Tunnel.png",
             "caption": "Dancing Under the Diamond Lights Show!",
             "heading": "Immerse Yourself in the UK's Largest Light Tunnel",
             "text": "<p>✨ Step into the UK’s Largest Light Tunnel with the stunning Dancing under the Diamond Lights Show every 30 minutes, illuminating your evening with a mesmerizing display.</p>",
@@ -137,6 +138,7 @@
         "row_zdrX4V": {
           "type": "row",
           "settings": {
+            "image": "shopify://shop_images/Cozy_Up_with_Santa_v6.1.png",
             "caption": "Enjoy a Magical Supper",
             "heading": "Cozy Up for Supper with Santa",
             "text": "<p>Delight in a cozy Supper with Santa by the water’s edge, an experience perfect for creating cherished family memories.</p>",
