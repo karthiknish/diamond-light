@@ -183,6 +183,7 @@
     -%}
 
     {%- if section.settings.logo_position != 'middle-center' -%}
+    <div class='header__other'>
       {%- if request.page_type == 'index' -%}
         <h1 class="header__heading">
       {%- endif -%}
@@ -211,6 +212,7 @@
           <span class="header__heading-date">6th December - 5th January</span>
           <span class="header__heading-time">3PM to 8PM</span>
           </div>
+        </h1>div>
       {%- if request.page_type == 'index' -%}
         </h1>
       {%- endif -%}
