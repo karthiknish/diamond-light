@@ -180,45 +180,6 @@
         "padding_bottom": 36
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "handmade-decorations"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "mulled-wine-kit",
-            "second_image": true
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "festive-treats"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Market Highlights",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video": {
       "type": "video",
       "settings": {
@@ -385,7 +346,6 @@
     "rich_text",
     "rich_text_TMhXB8",
     "multirow_YfiXYG",
-    "collage",
     "video",
     "multicolumn",
     "event_highlights"
