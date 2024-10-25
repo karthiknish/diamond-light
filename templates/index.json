@@ -87,6 +87,29 @@
         "padding_bottom": 40
       }
     },
+    "rich_text_TMhXB8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HzmYi4": {
+          "type": "heading",
+          "settings": {
+            "heading": "What you'll experience",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HzmYi4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multirow_YfiXYG": {
       "type": "multirow",
       "blocks": {
@@ -358,6 +381,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "rich_text_TMhXB8",
     "multirow_YfiXYG",
     "collage",
     "video",
