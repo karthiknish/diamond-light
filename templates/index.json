@@ -103,10 +103,11 @@
         "row_giwq8F": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "button_label": "Button label",
+            "image": "shopify://shop_images/Twinkly_Pro_Tree_Walkthrough.png",
+            "caption": "Step into Magic",
+            "heading": "Explore the Twinkling Walkthrough Tree!",
+            "text": "<p>🌲 Wander through the UK’s Largest Twinkly Pro Lighting Walkthrough Tree—an immersive, glowing path that promises wonder around every corner.</p>",
+            "button_label": "",
             "button_link": ""
           }
         },
