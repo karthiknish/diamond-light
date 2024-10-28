@@ -58,7 +58,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Diamond Lights at Waters View, Buxton</strong></em><em> </em>runs for one sparkling month from <strong>6th December to 5th January</strong>, offering a magical blend of attractions, festive activities, and entertainment. <a href=\"/products/diamondlights-christmas-market\" title=\"DiamondLights Christmas Market\">Book your tickets</a> now to share in the wonder and create lasting memories with family and friends</p>"
+            "text": "<p><em><strong>Diamond Lights at Waters View, Buxton</strong></em><em> </em>runs for one sparkling month from <strong>6th December to 5th January</strong>, offering a magical blend of attractions, festive activities, and entertainment. <a href=\"/products/diamondlights-christmas-market\" title=\"DiamondLights Christmas Market\">Book your tickets</a> now to share in the wonder and create lasting memories with family and friends.</p>"
           }
         }
       },
@@ -106,10 +106,10 @@
           "settings": {
             "image": "shopify://shop_images/Immerse_UK_Light_Tunnel.png",
             "caption": "Dancing Under the Diamond Lights Show!",
-            "heading": "Immerse Yourself in the UK's Largest Light Tunnel",
-            "text": "<p>✨ Step into the UK’s Largest Light Tunnel with the stunning Dancing under the Diamond Lights Show every 30 minutes, illuminating your evening with a mesmerizing display.</p>",
-            "button_label": "",
-            "button_link": ""
+            "heading": "Immerse yourself in the UK's largest light tunnel!",
+            "text": "<p>Step into the UK’s Largest Light Tunnel with the stunning Dancing under the Diamond Lights Show every 30 minutes, illuminating your evening with a mesmerising display.</p>",
+            "button_label": "BOOK NOW",
+            "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
         "row_giwq8F": {
