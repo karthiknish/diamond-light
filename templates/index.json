@@ -209,6 +209,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Holiday_Spirit_Fairground.png",
             "title": "Fairground Rides",
             "text": "<p>Get into the holiday spirit with thrilling fairground rides suitable for all ages, adding a dash of excitement to your festive outing.</p>",
             "link_label": "",
