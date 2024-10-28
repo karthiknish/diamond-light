@@ -102,6 +102,9 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 .shopifytipsSnowEffect canvas{
 min-width:100%;
 }
+.header__icon--menu{
+  color:white;
+}
 @media screen and (min-width: 750px) {
   .page-width {
     padding: 0 5rem;
