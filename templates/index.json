@@ -81,8 +81,8 @@
         "heading_HzmYi4": {
           "type": "heading",
           "settings": {
-            "heading": "What you'll experience",
-            "heading_size": "hxxl"
+            "heading": "What to expect",
+            "heading_size": "hxl"
           }
         }
       },
@@ -106,8 +106,8 @@
           "settings": {
             "image": "shopify://shop_images/Immerse_UK_Light_Tunnel.png",
             "caption": "",
-            "heading": "Immerse yourself in the UK's largest light tunnel!",
-            "text": "<p>Step into the UK’s largest light tunnel with the stunning 'Dancing Under The Diamond Lights' show every 30 minutes, illuminating your evening with a mesmerising display.</p>",
+            "heading": "Dancing Under The Diamonds",
+            "text": "<p>Marvel at the breathtaking ‘Dancing under the Diamonds’ lights show, taking place every 30 minutes within the UK’s largest light tunnel! Wander through this spectacular tunnel of lights, where thousands of twinkling diamonds dance and dazzle to the rhythm of festive music.</p>",
             "button_label": "STEP INTO THE LIGHT",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
@@ -117,8 +117,8 @@
           "settings": {
             "image": "shopify://shop_images/Twinkly_Pro_Tree_Walkthrough.png",
             "caption": "",
-            "heading": "Explore the Twinkling Walkthrough Tree!",
-            "text": "<p>Wander through the UK’s largest Twinkly Pro Lighting Walkthrough Tree - an immersive, glowing path that promises wonder around every corner.</p>",
+            "heading": "The UK’s largest Twinkly Pro Lighting Walk-through Tree",
+            "text": "<p>Take a stroll through the UK’s largest Twinkly Pro Lighting Tree, a mesmerising canopy of lights designed to capture the magic of the season with every step. This illuminated walk-through tree is a one-of-a-kind experience, perfect for creating unforgettable holiday memories.</p>",
             "button_label": "EXPLORE THE TWINKLY TREE",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
@@ -128,10 +128,10 @@
           "settings": {
             "image": "shopify://shop_images/Cozy_Up_with_Santa_v6.1.png",
             "caption": "",
-            "heading": "Cosy up for Supper with Santa!",
-            "text": "<p>Delight in a cosy 'Supper With Santa' by the water’s edge, an experience perfect for creating cherished family memories.</p>",
-            "button_label": "COSY SUPPER WITH SANTA",
-            "button_link": ""
+            "heading": "Supper with Santa",
+            "text": "<p>Enjoy an unforgettable meal with Santa Claus himself, overlooking the beautiful Waters View in Buxton. This magical supper experience offers a cosy, scenic setting perfect for families to enjoy a festive meal, with a chance for little ones to meet Santa in a truly enchanting setting.</p>",
+            "button_label": "ENJOY SUPPER WITH SANTA",
+            "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
         "row_nULpxi": {
@@ -139,9 +139,9 @@
           "settings": {
             "image": "shopify://shop_images/Dazzling_Field_Diamond_Ice.png",
             "caption": "",
-            "heading": "Experience the dazzling Field of Diamond Ice & Celestial Lights!",
-            "text": "<p>Stroll through the 'Field of Diamond Ice' - a sparkling spectacle that will take your breath away.<br/><br/>Marvel at the enchanting 'Moons and Stars', adding a touch of celestial magic to the atmosphere.</p>",
-            "button_label": "ENTER THE DIAMOND ICE FIELD",
+            "heading": "Field of Diamond Ice",
+            "text": "<p>Under the moon and stars, explore the captivating Field of Diamond Ice. This breathtaking winter wonderland is filled with sparkling ice sculptures and glistening diamond-inspired décor, creating a scene from a holiday fairytale.</p>",
+            "button_label": "EXPLORE THE DIAMOND ICE FIELD",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         }
@@ -189,8 +189,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Local Artisans",
-            "text": "<p>Discover unique handcrafted gifts and decorations from talented local artisans.</p>",
+            "title": "Shop & Discover",
+            "text": "<p>Browse up to 40 local and national traders, offering a variety of unique gifts, handcrafted treasures, and festive goods perfect for holiday shopping.</p>",
             "link_label": "",
             "link": "shopify://pages/vendors"
           }
@@ -198,8 +198,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Festive Treats",
-            "text": "<p>Indulge in delicious seasonal food and drinks, from mulled wine to gingerbread.</p>",
+            "title": "Food & Beverage Bars",
+            "text": "<p>Indulge in delicious seasonal fare at our Food & Beverage Bars, featuring hot cocoa, mulled wine, and festive treats to keep you warm and merry.</p>",
             "link_label": "",
             "link": "shopify://pages/menu"
           }
@@ -207,8 +207,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Family Fun",
-            "text": "<p>Enjoy live music, festive performances, and a special visit from Santa himself!</p>",
+            "title": "Fairground Rides",
+            "text": "<p>Get into the holiday spirit with thrilling fairground rides suitable for all ages, adding a dash of excitement to your festive outing.</p>",
             "link_label": "",
             "link": "shopify://pages/schedule"
           }
@@ -220,7 +220,7 @@
         "column3"
       ],
       "settings": {
-        "title": "Market Attractions",
+        "title": "<strong>Festive Fun for All Ages</strong>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
