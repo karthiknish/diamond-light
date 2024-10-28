@@ -55,7 +55,7 @@
           "type": "heading",
           "settings": {
             "heading": "What to expect",
-            "heading_size": "hxl"
+            "heading_size": "h0"
           }
         }
       },
@@ -230,7 +230,7 @@
       ],
       "settings": {
         "title": "Festive Fun for All Ages",
-        "heading_size": "h2",
+        "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
