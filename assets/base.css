@@ -125,7 +125,9 @@ min-width:100%;
     padding: 0 5rem;
   }
 }
-
+.header{
+  background:#5C3186;
+}
 @media screen and (min-width: 990px) {
   .header:not(.drawer-menu).page-width {
     padding-left: 5rem;
