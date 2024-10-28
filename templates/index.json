@@ -247,6 +247,77 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_ihKCQd": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_YW8MXK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Diamond Lights?",
+            "icon": "none",
+            "row_content": "<p>Join us for an enchanting, magical, festive after-dark<br/>illuminated trail at the Diamond Lights Experience, a captivating journey that<br/>will lead you through the magical landscapes around Waters View, Carsington.<br/>Set against ambient music, this unique trail meanders through a range of<br/>illuminated lighting installations and mesmerising light play that brings the<br/>surroundings to life. Along the way, you’ll encounter displays like the UK’s<br/>longest light tunnel and largest walk-through Christmas Tree amongst other<br/>highlights, each designed to immerse you further into the holiday wonderland.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Tj9Qbw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where does Diamond Lights talk place?",
+            "icon": "none",
+            "row_content": "<p>Diamond Lights experience takes place at C.W. Sellors Design<br/>Centre, Waters View, Carsington, DE6 1NQ.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_LM7w89": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What time does the Trail open and close?",
+            "icon": "none",
+            "row_content": "<p>The event will open at 5pm and<br/>close at 9pm each night.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_mbHNtD": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who is Diamond Lights Suitable for?",
+            "icon": "none",
+            "row_content": "<p>Diamond Lights is suitable for all ages. It is a delightful<br/>family experience to be enjoyed equally by young and old alike. A great<br/>alternative for date-night, for the romantics amongst us, or a very different,<br/>enchanting evening out with the girls. Also a great alternative to the<br/>traditional works' Christmas night out.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_izUNwE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What should I wear?",
+            "icon": "none",
+            "row_content": "<p>Since the entire trail takes place outdoors during<br/>winter evenings, expect cold, dark, and possibly wet conditions. Please dress warmly and wear sturdy footwear to make the most of this unforgettable experience. Wrap up and prepare for a beautiful, brisk winter night filled with light, warmth, and festive cheer.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_YW8MXK",
+        "collapsible_row_Tj9Qbw",
+        "collapsible_row_LM7w89",
+        "collapsible_row_mbHNtD",
+        "collapsible_row_izUNwE"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ's",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -255,6 +326,7 @@
     "rich_text_TMhXB8",
     "multirow_YfiXYG",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "collapsible_content_ihKCQd"
   ]
 }
