@@ -9,40 +9,13 @@
  */
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Diamond Lights",
-            "heading_size": "hxxl"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Celebrate the event of the year at Waters View, Buxton",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+    "custom_liquid_PGPfTX": {
+      "type": "custom-liquid",
       "settings": {
-        "image": "shopify://shop_images/Vintage_Christmas_Card.png",
-        "image_overlay_opacity": 50,
-        "image_height": "large",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-2",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "custom_liquid": "<style>\n\n.video-container {\n    position: relative;\n    display: inline-block;\n    width: 100%;\n    max-width: 100%;\n}\n\n.video-container video {\n    display: block;\n    width: 100%;\n    height: auto;\n}\n\n.video-logo {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    max-width: 40%; /* Adjust size as needed */\n   \n}\n</style>\n<div class=\"video-container\">\n    <video autoplay loop muted width=\"100%\" height=\"auto\" preload=\"metadata\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/0d0acd69c71041db9a2855d6c9432cf4.mp4\" type=\"video/mp4\">\n        Your browser does not support the video tag.\n    </video>\n    <img src=\"https://cdn.shopify.com/s/files/1/0884/8169/4031/files/Diamond_Lights_White.png?v=1730115427\" alt=\"Logo\" class=\"video-logo\">\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text": {
@@ -51,7 +24,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Your Ultimate Festive Adventure! <em>Join us from 6th December - 5th January.</em>",
+            "heading": "<strong>Your Ultimate Festive Adventure!</strong> <em>Join us from 6th December - 5th January.</em>",
             "heading_size": "h1"
           }
         },
@@ -81,8 +54,8 @@
         "heading_HzmYi4": {
           "type": "heading",
           "settings": {
-            "heading": "What To Expect",
-            "heading_size": "h1"
+            "heading": "What to expect",
+            "heading_size": "hxl"
           }
         }
       },
@@ -108,7 +81,7 @@
             "caption": "",
             "heading": "Dancing Under The Diamonds",
             "text": "<p>Marvel at the breathtaking ‘Dancing under the Diamonds’ lights show, taking place every 30 minutes within the UK’s largest light tunnel! Wander through this spectacular tunnel of lights, where thousands of twinkling diamonds dance and dazzle to the rhythm of festive music.</p>",
-            "button_label": "BOOK NOW",
+            "button_label": "STEP INTO THE LIGHT",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -117,9 +90,9 @@
           "settings": {
             "image": "shopify://shop_images/DJI_0670_HDR.jpg",
             "caption": "",
-            "heading": "The UK’s Largest Twinkly Pro Lighting Walk-Through Tree",
+            "heading": "The UK’s largest Twinkly Pro Lighting Walk-through Tree",
             "text": "<p>Take a stroll through the UK’s largest Twinkly Pro Lighting Tree, a mesmerising canopy of lights designed to capture the magic of the season with every step. This illuminated walk-through tree is a one-of-a-kind experience, perfect for creating unforgettable holiday memories.</p>",
-            "button_label": "BOOK NOW",
+            "button_label": "EXPLORE THE TWINKLY TREE",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -128,9 +101,9 @@
           "settings": {
             "image": "shopify://shop_images/Cozy_Up_with_Santa_v6.1.png",
             "caption": "",
-            "heading": "Supper With Santa",
+            "heading": "Supper with Santa",
             "text": "<p>Enjoy an unforgettable meal with Santa Claus himself, overlooking the beautiful Waters View in Buxton. This magical supper experience offers a cosy, scenic setting perfect for families to enjoy a festive meal, with a chance for little ones to meet Santa in a truly enchanting setting.</p>",
-            "button_label": "BOOK NOW",
+            "button_label": "ENJOY SUPPER WITH SANTA",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -139,9 +112,9 @@
           "settings": {
             "image": "shopify://shop_images/Dazzling_Field_Diamond_Ice.png",
             "caption": "",
-            "heading": "Field Ff Diamond Ice",
+            "heading": "Field of Diamond Ice",
             "text": "<p>Under the moon and stars, explore the captivating Field of Diamond Ice. This breathtaking winter wonderland is filled with sparkling ice sculptures and glistening diamond-inspired décor, creating a scene from a holiday fairytale.</p>",
-            "button_label": "BOOK NOW",
+            "button_label": "EXPLORE THE DIAMOND ICE FIELD",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         }
@@ -256,8 +229,8 @@
         "column_7Ekw8V"
       ],
       "settings": {
-        "title": "Festive Fun for All Ages",
-        "heading_size": "h1",
+        "title": "<strong>Festive Fun for All Ages</strong>",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -345,7 +318,7 @@
     }
   },
   "order": [
-    "image_banner",
+    "custom_liquid_PGPfTX",
     "rich_text",
     "rich_text_TMhXB8",
     "multirow_YfiXYG",
