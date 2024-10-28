@@ -212,12 +212,42 @@
             "link_label": "",
             "link": "shopify://pages/schedule"
           }
+        },
+        "column_HcRayF": {
+          "type": "column",
+          "settings": {
+            "title": "Live Performances",
+            "text": "<p>Enjoy live performances from local and national acts on our festive stage, filling the air with seasonal cheer and entertainment.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_44jBUn": {
+          "type": "column",
+          "settings": {
+            "title": "Meet Iconic Characters",
+            "text": "<p>Capture magical moments with beloved characters like The Grinch, Beetlejuice, Elsa, and many more. And don’t miss the chance to gather around the marshmallow fire pits for a cosy, memorable evening.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7Ekw8V": {
+          "type": "column",
+          "settings": {
+            "title": "The Ultimate Festive Adventure!",
+            "text": "<p>Join us for the Diamond Lights Christmas Light Experience! Shop, dine, and soak in festive sights, sounds, and lights for a holiday celebration to remember.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "column_HcRayF",
+        "column_44jBUn",
+        "column_7Ekw8V"
       ],
       "settings": {
         "title": "<strong>Festive Fun for All Ages</strong>",
