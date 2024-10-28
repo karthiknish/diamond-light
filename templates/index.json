@@ -81,7 +81,7 @@
             "caption": "",
             "heading": "Dancing Under The Diamonds",
             "text": "<p>Marvel at the breathtaking ‘Dancing under the Diamonds’ lights show, taking place every 30 minutes within the UK’s largest light tunnel! Wander through this spectacular tunnel of lights, where thousands of twinkling diamonds dance and dazzle to the rhythm of festive music.</p>",
-            "button_label": "STEP INTO THE LIGHT",
+            "button_label": "BOOK NOW",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -92,7 +92,7 @@
             "caption": "",
             "heading": "The UK’s largest Twinkly Pro Lighting Walk-through Tree",
             "text": "<p>Take a stroll through the UK’s largest Twinkly Pro Lighting Tree, a mesmerising canopy of lights designed to capture the magic of the season with every step. This illuminated walk-through tree is a one-of-a-kind experience, perfect for creating unforgettable holiday memories.</p>",
-            "button_label": "EXPLORE THE TWINKLY TREE",
+            "button_label": "BOOK NOW",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -103,7 +103,7 @@
             "caption": "",
             "heading": "Supper with Santa",
             "text": "<p>Enjoy an unforgettable meal with Santa Claus himself, overlooking the beautiful Waters View in Buxton. This magical supper experience offers a cosy, scenic setting perfect for families to enjoy a festive meal, with a chance for little ones to meet Santa in a truly enchanting setting.</p>",
-            "button_label": "ENJOY SUPPER WITH SANTA",
+            "button_label": "BOOK NOW",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -114,7 +114,7 @@
             "caption": "",
             "heading": "Field of Diamond Ice",
             "text": "<p>Under the moon and stars, explore the captivating Field of Diamond Ice. This breathtaking winter wonderland is filled with sparkling ice sculptures and glistening diamond-inspired décor, creating a scene from a holiday fairytale.</p>",
-            "button_label": "EXPLORE THE DIAMOND ICE FIELD",
+            "button_label": "BOOK NOW",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         }
@@ -234,7 +234,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "PLAN YOUR VISIT",
         "button_link": "shopify://products/diamondlights-christmas-market",
