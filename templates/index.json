@@ -189,6 +189,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Local_traders.png",
             "title": "Shop & Discover",
             "text": "<p>Browse up to 40 local and national traders, offering a variety of unique gifts, handcrafted treasures, and festive goods perfect for holiday shopping.</p>",
             "link_label": "",
