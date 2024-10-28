@@ -229,6 +229,7 @@
         "column_44jBUn": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Magical_Moments_with_Beloved_Characters.png",
             "title": "Meet Iconic Characters",
             "text": "<p>Capture magical moments with beloved characters like The Grinch, Beetlejuice, Elsa, and many more. And don’t miss the chance to gather around the marshmallow fire pits for a cosy, memorable evening.</p>",
             "link_label": "",
@@ -261,7 +262,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Plan Your Visit",
+        "button_label": "PLAN YOUR VISIT",
         "button_link": "shopify://products/diamondlights-christmas-market",
         "color_scheme": "scheme-1",
         "columns_mobile": "1",
