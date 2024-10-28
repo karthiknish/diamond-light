@@ -239,6 +239,7 @@
         "column_7Ekw8V": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Diamond_Lights_Christmas.png",
             "title": "The Ultimate Festive Adventure!",
             "text": "<p>Join us for the Diamond Lights Christmas Light Experience! Shop, dine, and soak in festive sights, sounds, and lights for a holiday celebration to remember.</p>",
             "link_label": "",
