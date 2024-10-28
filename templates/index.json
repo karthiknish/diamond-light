@@ -22,8 +22,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "Celebrate the holiday season in style at Buxton Waters View",
-            "text_style": "body"
+            "text": "at Waters View, Buxton",
+            "text_style": "subtitle"
           }
         },
         "button": {
