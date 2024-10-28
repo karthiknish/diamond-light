@@ -274,7 +274,7 @@
           "settings": {
             "heading": "What time does the Trail open and close?",
             "icon": "none",
-            "row_content": "<p>The event will open at 5pm and<br/>close at 9pm each night.</p>",
+            "row_content": "<p>The event will open at 5pm and close at 9pm each night.</p>",
             "page": ""
           }
         },
