@@ -94,6 +94,9 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   padding: 0;
   margin: 0 auto;
 }
+.list-social__item .icon{
+  color:black;
+}
 
 .utility-bar__grid.page-width {
   padding-left: 3rem;
