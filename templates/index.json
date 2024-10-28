@@ -199,6 +199,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Seasonal_Fare.png",
             "title": "Food & Beverage Bars",
             "text": "<p>Indulge in delicious seasonal fare at our Food & Beverage Bars, featuring hot cocoa, mulled wine, and festive treats to keep you warm and merry.</p>",
             "link_label": "",
