@@ -125,7 +125,7 @@ min-width:100%;
     padding: 0 5rem;
   }
 }
-.header{
+.header-wrapper{
   background:#5C3186;
 }
 @media screen and (min-width: 990px) {
