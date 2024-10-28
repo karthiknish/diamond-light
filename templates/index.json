@@ -219,6 +219,7 @@
         "column_HcRayF": {
           "type": "column",
           "settings": {
+            "image": "shopify://shop_images/Live_performances.png",
             "title": "Live Performances",
             "text": "<p>Enjoy live performances from local and national acts on our festive stage, filling the air with seasonal cheer and entertainment.</p>",
             "link_label": "",
