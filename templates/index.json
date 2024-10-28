@@ -51,7 +51,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Your Ultimate Festive Adventure!</strong> <em>Join us from 6th December - 5th January.</em>",
+            "heading": "Your Ultimate Festive Adventure! <em>Join us from 6th December - 5th January.</em>",
             "heading_size": "h1"
           }
         },
@@ -81,7 +81,7 @@
         "heading_HzmYi4": {
           "type": "heading",
           "settings": {
-            "heading": "What to expect",
+            "heading": "What To Expect",
             "heading_size": "h1"
           }
         }
