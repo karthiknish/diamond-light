@@ -51,7 +51,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Your Ultimate Festive Adventure!</strong> <em>Join us 6th December - 5th January.</em>",
+            "heading": "<strong>Your Ultimate Festive Adventure!</strong> <em>Join us from 6th December - 5th January.</em>",
             "heading_size": "h1"
           }
         },
@@ -105,10 +105,10 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Immerse_UK_Light_Tunnel.png",
-            "caption": "Dancing Under the Diamond Lights Show!",
+            "caption": "",
             "heading": "Immerse yourself in the UK's largest light tunnel!",
-            "text": "<p>Step into the UK’s Largest Light Tunnel with the stunning Dancing under the Diamond Lights Show every 30 minutes, illuminating your evening with a mesmerising display.</p>",
-            "button_label": "BOOK NOW",
+            "text": "<p>Step into the UK’s largest light tunnel with the stunning 'Dancing Under The Diamond Lights' show every 30 minutes, illuminating your evening with a mesmerising display.</p>",
+            "button_label": "STEP INTO THE LIGHT",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
@@ -116,21 +116,21 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Twinkly_Pro_Tree_Walkthrough.png",
-            "caption": "Step into Magic",
+            "caption": "",
             "heading": "Explore the Twinkling Walkthrough Tree!",
-            "text": "<p>🌲 Wander through the UK’s Largest Twinkly Pro Lighting Walkthrough Tree—an immersive, glowing path that promises wonder around every corner.</p>",
-            "button_label": "",
-            "button_link": ""
+            "text": "<p>Wander through the UK’s largest Twinkly Pro Lighting Walkthrough Tree - an immersive, glowing path that promises wonder around every corner.</p>",
+            "button_label": "EXPLORE THE TWINKLY TREE",
+            "button_link": "shopify://products/diamondlights-christmas-market"
           }
         },
         "row_zdrX4V": {
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Cozy_Up_with_Santa_v6.1.png",
-            "caption": "Enjoy a Magical Supper",
-            "heading": "Cozy Up for Supper with Santa",
-            "text": "<p>Delight in a cozy Supper with Santa by the water’s edge, an experience perfect for creating cherished family memories.</p>",
-            "button_label": "",
+            "caption": "",
+            "heading": "Cozy up for supper with Santa!",
+            "text": "<p>Delight in a cosy 'Supper With Santa' by the water’s edge, an experience perfect for creating cherished family memories.</p>",
+            "button_label": "SUPPER WITH SANTA",
             "button_link": ""
           }
         },
@@ -138,11 +138,11 @@
           "type": "row",
           "settings": {
             "image": "shopify://shop_images/Dazzling_Field_Diamond_Ice.png",
-            "caption": "enchantment of a truly breathtaking experience!",
-            "heading": "Dazzling Field of Diamond Ice & Celestial Lights!",
-            "text": "<p>❄️ Stroll through the Field of Diamond Ice, a sparkling spectacle that will take your breath away.<br/><br/>🌌 Marvel at the enchanting Moons and Stars, adding a touch of celestial magic to the atmosphere.</p>",
-            "button_label": "",
-            "button_link": ""
+            "caption": "",
+            "heading": "Experience the dazzling Field of Diamond Ice & Celestial Lights!",
+            "text": "<p>Stroll through the 'Field of Diamond Ice' - a sparkling spectacle that will take your breath away.<br/><br/>Marvel at the enchanting 'Moons and Stars', adding a touch of celestial magic to the atmosphere.</p>",
+            "button_label": "ENTER THE DIAMOND ICE FIELD",
+            "button_link": "shopify://products/diamondlights-christmas-market"
           }
         }
       },
