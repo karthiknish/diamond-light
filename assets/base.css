@@ -141,7 +141,7 @@ min-width:100%;
   background:#01274E !important;
 }
 .svg-wrapper{
-  color:white;
+  color:black;
 }
 @media screen and (min-width: 990px) {
   .header:not(.drawer-menu).page-width {
