@@ -102,7 +102,7 @@
             "image": "shopify://shop_images/Cozy_Up_with_Santa_v6.1.png",
             "caption": "",
             "heading": "Meet Santa",
-            "text": "<p>Enjoy an unforgettable meal with Santa Claus himself, overlooking the beautiful Waters View in Buxton. This magical supper experience offers a cosy, scenic setting perfect for families to enjoy a festive meal, with a chance for little ones to meet Santa in a truly enchanting setting.</p>",
+            "text": "<p>Meet Santa Claus in an unforgettable setting overlooking the beautiful Waters View in Carsington! This cosy, festive experience is ideal for families, giving little ones a magical chance to greet Santa in a truly enchanting atmosphere while enjoying a meal together.</p>",
             "button_label": "BOOK NOW",
             "button_link": "shopify://products/diamondlights-christmas-market"
           }
@@ -300,7 +300,7 @@
           "settings": {
             "heading": "What is Diamond Lights Experience?",
             "icon": "none",
-            "row_content": "<p>Join us for an enchanting, magical, festive after-dark<br/>illuminated trail at the Diamond Lights Experience, a captivating journey that<br/>will lead you through the magical landscapes around Waters View, Carsington.<br/>Set against ambient music, this unique trail meanders through a range of<br/>illuminated lighting installations and mesmerising light play that brings the<br/>surroundings to life. Along the way, you’ll encounter displays like the UK’s<br/>longest light tunnel and largest walk-through Christmas Tree amongst other<br/>highlights, each designed to immerse you further into the holiday wonderland.</p>",
+            "row_content": "<p>Join us for an enchanting, magical, festive after-dark illuminated trail at the Diamond Lights Experience, a captivating journey that will lead you through the magical landscapes around Waters View, Carsington.<br/><br/>Set against ambient music, this unique trail meanders through a range of illuminated lighting installations and mesmerising light play that brings the surroundings to life. <br/><br/>Along the way, you’ll encounter displays like the UK’s longest light tunnel and largest walk-through Christmas Tree amongst other<br/>highlights, each designed to immerse you further into the holiday wonderland.</p>",
             "page": ""
           }
         },
