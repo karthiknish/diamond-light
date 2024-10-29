@@ -47,7 +47,7 @@
     "custom_liquid_pkmGRh": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>#app-embed h2{\ndisplay:none !important;}</style>",
+        "custom_liquid": "<style> .contact .page__header{\n     display:none !important;\n    }</style>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
