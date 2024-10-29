@@ -43,20 +43,10 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "custom_liquid_pkmGRh": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style> .contact .page__header{\n     display:none !important;\n    }</style>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "1730210165e3312b3a",
-    "custom_liquid_pkmGRh"
+    "1730210165e3312b3a"
   ]
 }
