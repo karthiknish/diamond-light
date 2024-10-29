@@ -111,6 +111,9 @@ min-width:100%;
 .deferred-media__poster-button{
   background-color:black !important;
 }
+.section._formHeader_1ll8d_19{
+  display:none !important;
+}
 @media screen and (min-width: 750px) {
   .page-width {
     padding: 0 5rem;
