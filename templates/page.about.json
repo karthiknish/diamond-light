@@ -87,8 +87,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "What are the ticket prices?",
-            "icon": "none",
-            "row_content": "<p>Family of 4 (2 adults, 2 children): £55</p><p>Single adult: £18.95</p><p>Single child: £9.95</p><p>OAP/Student: £14.95</p><p>Carers: £9.95 per paying child/adult</p>",
+            "icon": "snowflake",
+            "row_content": "<p>Family of 4 (2 adults, 2 children): £55.00</p><p>Single adult: £18.95</p><p>Single child: £9.95</p><p>OAP/Student: £14.95</p><p>Carers: £9.95 per paying child/adult</p>",
             "page": ""
           }
         },
