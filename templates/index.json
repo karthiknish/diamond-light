@@ -335,8 +335,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Will there be food and drink available?",
-            "icon": "none",
-            "row_content": "<p>Enjoy food and drink from one of a<br/>many food vendors on site, while enjoying our rides and live entertainment. </p>",
+            "icon": "snowflake",
+            "row_content": "<p>Yes! Enjoy food and drink from one of many food vendors on site, while also enjoying our rides and live entertainment. </p>",
             "page": ""
           }
         }
