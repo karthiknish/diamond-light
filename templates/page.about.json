@@ -17,6 +17,15 @@
         "padding_bottom": 28
       }
     },
+    "custom_liquid_ez9G78": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style='display:flex;justify-content:center'><img width='30%' src=\"https://cdn.shopify.com/s/files/1/0884/8169/4031/files/Step_into_enchantment.png?v=1730206150\" /></div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_CFxwQ4": {
       "type": "rich-text",
       "blocks": {
@@ -203,6 +212,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_ez9G78",
     "rich_text_CFxwQ4",
     "collapsible_content_DxpgFQ"
   ]
