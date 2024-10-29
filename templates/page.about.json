@@ -58,10 +58,152 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "collapsible_content_DxpgFQ": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_kTzfB9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the event timings?",
+            "icon": "none",
+            "row_content": "<p>The event opens each evening at 5 pm and closes at 9 pm.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ifUpeJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When should I arrive?",
+            "icon": "none",
+            "row_content": "<p>Plan to arrive with enough time to explore the entire trail, ideally close to 5 pm if you'd like a relaxed experience.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_D94nmM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Who is Diamond Lights suitable for?",
+            "icon": "none",
+            "row_content": "<p>Diamond Lights is designed for all ages, making it an ideal family experience. It's also a unique option for date nights, friends' outings, and even works Christmas parties.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TdXWU3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What should I wear?",
+            "icon": "none",
+            "row_content": "<p>Since the event is outdoors during winter evenings, expect cold, dark, and possibly wet conditions. Dress warmly and wear sturdy footwear.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JUk6AE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I get to Diamond Lights?",
+            "icon": "none",
+            "row_content": "<p><em>By Car</em></p><ul><li><strong>From the M1</strong>: Take the A38 exit at junction 28, continue toward Matlock, then follow signs for Wirksworth and Carsington.</li><li><strong>From the A50</strong>: Exit at Derby, take the A6 toward Matlock, then follow signs to Wirksworth and Carsington.</li></ul><p><em>By Public Transport</em></p><ul><li><strong>Train</strong>: The nearest major station is Derby, about 14 miles away, with bus or taxi options to reach Carsington.</li><li><strong>Bus</strong>: Take the Trent Barton 6.1 bus from Derby to Wirksworth, then a local taxi to Carsington.</li></ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6UFUbU": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What dates are available?",
+            "icon": "none",
+            "row_content": "<p>Check the <a href=\"/products/diamondlights-christmas-market\" title=\"Diamond Lights Christmas Light Experience\">event's booking page</a> for the specific dates.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_eAe3PP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the ticket prices?",
+            "icon": "none",
+            "row_content": "<p>Family of 4 (2 adults, 2 children): £55</p><p>Single adult: £18.95</p><p>Single child: £9.95</p><p>OAP/Student: £14.95</p><p>Carers: £9.95 per paying child/adult</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_46JNQT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Diamond Lights wheelchair accessible?",
+            "icon": "none",
+            "row_content": "<p>The event is designed to be accessible within the limits of the natural site, with trail adjustments made where possible. In cases of extreme weather, ticket rescheduling may be considered for guests with mobility aids.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_3apcr4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are dogs allowed?",
+            "icon": "none",
+            "row_content": "<p>For the safety and comfort of all visitors, dogs are not permitted at the event.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_BhJDAx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the cancellation policy?",
+            "icon": "none",
+            "row_content": "<p>The event will go ahead in typical winter weather conditions, but in extreme weather, Diamond Lights may cancel for safety reasons. Guests will be notified by 2 pm on the event day. In the case of cancellation, rebooking or refund options will be provided.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_NtprnC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I change my booking date?",
+            "icon": "none",
+            "row_content": "<p>Transfers or refunds are only available if the event is officially canceled.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_jm64GY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What steps are being taken for sustainability?",
+            "icon": "none",
+            "row_content": "<p>The event prioritizes low-energy lighting, minimizes light and noise pollution, and carefully considers the impact on local wildlife, especially bats.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_kTzfB9",
+        "collapsible_row_ifUpeJ",
+        "collapsible_row_D94nmM",
+        "collapsible_row_TdXWU3",
+        "collapsible_row_JUk6AE",
+        "collapsible_row_6UFUbU",
+        "collapsible_row_eAe3PP",
+        "collapsible_row_46JNQT",
+        "collapsible_row_3apcr4",
+        "collapsible_row_BhJDAx",
+        "collapsible_row_NtprnC",
+        "collapsible_row_jm64GY"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "More Faq's",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "rich_text_CFxwQ4"
+    "rich_text_CFxwQ4",
+    "collapsible_content_DxpgFQ"
   ]
 }
