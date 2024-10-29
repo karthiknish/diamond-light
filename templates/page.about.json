@@ -105,7 +105,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Are dogs allowed?",
-            "icon": "none",
+            "icon": "snowflake",
             "row_content": "<p>For the safety and comfort of all visitors, dogs are not permitted at the event.</p>",
             "page": ""
           }
