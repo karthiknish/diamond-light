@@ -111,9 +111,7 @@ min-width:100%;
 .deferred-media__poster-button{
   background-color:black !important;
 }
-._textHeading_2aowh_35{
-  display:none !important;
-}
+
 @media screen and (min-width: 750px) {
   .page-width {
     padding: 0 5rem;
