@@ -144,8 +144,8 @@
     "video": {
       "type": "video",
       "settings": {
-        "heading": "",
-        "heading_size": "hxxl",
+        "heading": "Experience the Magic",
+        "heading_size": "h0",
         "enable_video_looping": true,
         "video": "shopify://files/videos/German Christmas Market Cinemagraph.mp4",
         "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
