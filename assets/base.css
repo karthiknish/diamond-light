@@ -149,6 +149,9 @@ min-width:100%;
 .icon-cart{
   color:white;
 }
+.header__icon{
+  color:white;
+}
 @media screen and (min-width: 990px) {
   .header:not(.drawer-menu).page-width {
     padding-left: 5rem;
