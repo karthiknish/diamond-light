@@ -123,7 +123,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Can I change my booking date?",
-            "icon": "none",
+            "icon": "snowflake",
             "row_content": "<p>Transfers or refunds are only available if the event is officially canceled.</p>",
             "page": ""
           }
