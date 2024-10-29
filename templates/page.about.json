@@ -96,7 +96,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Is Diamond Lights wheelchair accessible?",
-            "icon": "none",
+            "icon": "snowflake",
             "row_content": "<p>The event is designed to be accessible within the limits of the natural site, with trail adjustments made where possible. In cases of extreme weather, ticket rescheduling may be considered for guests with mobility aids.</p>",
             "page": ""
           }
