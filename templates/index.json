@@ -287,9 +287,9 @@
         "collapsible_row_izUNwE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What should I wear?",
+            "heading": "Will there be food and drink available?",
             "icon": "none",
-            "row_content": "<p>Since the entire trail takes place outdoors during winter evenings, expect cold, dark, and possibly wet conditions. Please dress warmly and wear sturdy footwear to make the most of this unforgettable experience. Wrap up and prepare for a beautiful, brisk winter night filled with light, warmth, and festive cheer.</p>",
+            "row_content": "<p>Enjoy food and drink from one of a<br/>many food vendors on site, while enjoying our rides and live entertainment. </p>",
             "page": ""
           }
         }
