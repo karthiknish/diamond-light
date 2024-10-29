@@ -132,8 +132,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "What steps are being taken for sustainability?",
-            "icon": "none",
-            "row_content": "<p>The event prioritizes low-energy lighting, minimizes light and noise pollution, and carefully considers the impact on local wildlife, especially bats.</p>",
+            "icon": "snowflake",
+            "row_content": "<p>The event prioritises low-energy lighting, minimises light and noise pollution, and carefully considers the impact on local wildlife, especially bats.</p>",
             "page": ""
           }
         }
