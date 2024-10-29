@@ -11,13 +11,57 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "rich_text_CFxwQ4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_37j43C": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>About the Diamond Lights Christmas Light Experience</strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_K6dUwU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Step into a world of enchantment this holiday season at the Diamond Lights Christmas Light Experience, hosted by C.W. Sellors in partnership with The Festive Group, at the stunning C.W. Sellors Jewellery Design Centre, Carsington. This extraordinary event promises magical<br/>experiences and festive fun for the whole family, set against the backdrop of the UK’s most dazzling light displays.</p>"
+          }
+        },
+        "button_JEVx4c": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "shopify://products/diamondlights-christmas-market",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_37j43C",
+        "text_K6dUwU",
+        "button_JEVx4c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_CFxwQ4"
   ]
 }
