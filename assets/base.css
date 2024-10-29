@@ -106,7 +106,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 min-width:100%;
 }
 .header__icon--menu{
-  color:white;
+  display:none !important;
 }
 .deferred-media__poster-button{
   background-color:black !important;
