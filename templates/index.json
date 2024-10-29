@@ -280,7 +280,7 @@
           "settings": {
             "heading": "How will I get my Diamond Lights Tickets?",
             "icon": "none",
-            "row_content": "<p>Use the book now button at the top of the page or click here to book your tickets today!</p>",
+            "row_content": "<p>Use the book now button at the top of the page or <a href=\"/products/diamondlights-christmas-market\" title=\"Diamond Lights Christmas Light Experience\">click here </a>to book your tickets today!</p>",
             "page": ""
           }
         },
