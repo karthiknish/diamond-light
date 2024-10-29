@@ -78,7 +78,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "What dates are available?",
-            "icon": "none",
+            "icon": "snowflake",
             "row_content": "<p>Check the <a href=\"/products/diamondlights-christmas-market\" title=\"Diamond Lights Christmas Light Experience\">event's booking page</a> for the specific dates.</p>",
             "page": ""
           }
