@@ -235,7 +235,9 @@
               {%- endform -%}
             </div>
           {%- endif -%}
-
+ <div>
+        <a target="_blank" href="https://ashgatehospice.org.uk/"><img width='100px' height='auto' src="https://cdn.shopify.com/s/files/1/0884/8169/4031/files/Ashgate_1.png?v=1730202999" /> 
+      </a></div>
           {%- if shop.features.follow_on_shop? and section.settings.enable_follow_on_shop -%}
             <div class="footer__follow-on-shop">
               {{ shop | login_button: action: 'follow' }}
@@ -282,9 +284,7 @@
           </localization-form>
         {%- endif -%}
       </div>
-      <div>
-        <img width='100px' height='auto' src="https://cdn.shopify.com/s/files/1/0884/8169/4031/files/Ashgate_1.png?v=1730202999" /> 
-      </div>
+     
       <div class="footer__column footer__column--info">
         {%- if section.settings.payment_enable -%}
           <div class="footer__payment">

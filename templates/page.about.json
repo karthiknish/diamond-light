@@ -42,8 +42,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "When should I arrive?",
-            "icon": "none",
-            "row_content": "<p>Plan to arrive with enough time to explore the entire trail, ideally close to 5 pm if you'd like a relaxed experience.</p>",
+            "icon": "snowflake",
+            "row_content": "<p>Plan to arrive with enough time to explore the entire trail, ideally as close to 5pm if you'd prefer a relaxed experience.</p>",
             "page": ""
           }
         },
