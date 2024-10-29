@@ -316,9 +316,9 @@
         "collapsible_row_LM7w89": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How do I get to the Diamond Light Experience?",
-            "icon": "none",
-            "row_content": "<p>Diamond Lights experience takes place at C.W. Sellors Design Centre, Waters View, Carsington, DE6 1NQ.</p>",
+            "heading": "How do I get to the Diamond Lights Experience?",
+            "icon": "snowflake",
+            "row_content": "<p>The Diamond Lights Experience takes place at C.W. Sellors Design Centre, Waters View, Carsington, DE6 1NQ.</p>",
             "page": ""
           }
         },
