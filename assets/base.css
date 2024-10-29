@@ -143,6 +143,9 @@ min-width:100%;
 .svg-wrapper{
   color:black;
 }
+.icon-account{
+  color:white;
+}
 @media screen and (min-width: 990px) {
   .header:not(.drawer-menu).page-width {
     padding-left: 5rem;
