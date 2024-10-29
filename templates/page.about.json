@@ -69,8 +69,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How do I get to Diamond Lights?",
-            "icon": "none",
-            "row_content": "<p><em>By Car</em></p><ul><li><strong>From the M1</strong>: Take the A38 exit at junction 28, continue toward Matlock, then follow signs for Wirksworth and Carsington.</li><li><strong>From the A50</strong>: Exit at Derby, take the A6 toward Matlock, then follow signs to Wirksworth and Carsington.</li></ul><p><em>By Public Transport</em></p><ul><li><strong>Train</strong>: The nearest major station is Derby, about 14 miles away, with bus or taxi options to reach Carsington.</li><li><strong>Bus</strong>: Take the Trent Barton 6.1 bus from Derby to Wirksworth, then a local taxi to Carsington.</li></ul>",
+            "icon": "snowflake",
+            "row_content": "<p><em>By Car</em></p><ul><li><strong>From the M1</strong>: Take the A38 exit at junction 28, continue toward Matlock, then follow signs for Wirksworth and Carsington.<br/></li><li><strong>From the A50</strong>: Exit at Derby, take the A6 toward Matlock, then follow signs to Wirksworth and Carsington.<br/></li></ul><p><em>By Public Transport</em></p><ul><li><strong>Train</strong>: The nearest major station is Derby, about 14 miles away, with bus or taxi options to reach Carsington.<br/></li><li><strong>Bus</strong>: Take the Trent Barton 6.1 bus from Derby to Wirksworth, then a local taxi to Carsington.</li></ul>",
             "page": ""
           }
         },
