@@ -325,9 +325,9 @@
         "collapsible_row_mbHNtD": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How will I get my Diamond Lights Tickets?",
-            "icon": "none",
-            "row_content": "<p>Use the book now button at the top of the page or <a href=\"/products/diamondlights-christmas-market\" title=\"Diamond Lights Christmas Light Experience\">click here </a>to book your tickets today!</p>",
+            "heading": "How will I get my Diamond Lights Experience Tickets?",
+            "icon": "snowflake",
+            "row_content": "<p>Use the Book Now button at the top of the page or <a href=\"/products/diamondlights-christmas-market\" title=\"Diamond Lights Christmas Light Experience\">click here </a>to book your tickets today!</p>",
             "page": ""
           }
         },
