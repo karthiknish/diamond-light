@@ -114,8 +114,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "What is the cancellation policy?",
-            "icon": "none",
-            "row_content": "<p>The event will go ahead in typical winter weather conditions, but in extreme weather, Diamond Lights may cancel for safety reasons. Guests will be notified by 2 pm on the event day. In the case of cancellation, rebooking or refund options will be provided.</p>",
+            "icon": "snowflake",
+            "row_content": "<p>The event will go ahead in typical winter weather conditions, but in extreme weather, Diamond Lights may cancel for safety reasons. Guests will be notified by 2pm on the event day. In the case of cancellation, rebooking or refund options will be provided.</p>",
             "page": ""
           }
         },
