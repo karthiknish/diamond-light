@@ -498,7 +498,17 @@
     "url": {{ request.origin | append: page.url | json }}
   }
 </script>
+<script>
+  window.addEventListener('scroll', function() {
+    const header = document.querySelector('.header-wrapper');
+    const scrollPosition = window.scrollY;
+    const maxScroll = 300;  // Max scroll position for full transparency
 
+    // Calculate opacity based on scroll position (from 1 to 0)
+    let opacity = Math.max(0, 1 - (scrollPosition / maxScroll));
+    header.style.backgroundColor = `rgba(1, 39, 78, ${opacity})`;
+  });
+</script>
 {%- if request.page_type == 'index' -%}
   {% assign potential_action_target = request.origin | append: routes.search_url | append: "?q={search_term_string}" %}
   <script type="application/ld+json">
