@@ -17,9 +17,9 @@
         "image_38QYB7": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/logo_email.png",
+            "image": "shopify://shop_images/Diamond_Lights.png",
             "image_width": 250,
-            "alignment": "center"
+            "alignment": ""
           }
         },
         "footer-0": {
