@@ -169,6 +169,15 @@
         "padding_bottom": 36
       }
     },
+    "custom_liquid_VMreJP": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style='display:flex;justify-content:center'><h1>Explore the Magic</h1></div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "image_banner_YD9d6B": {
       "type": "image-banner",
       "blocks": {
@@ -443,6 +452,7 @@
     "rich_text_TMhXB8",
     "multirow_YfiXYG",
     "video",
+    "custom_liquid_VMreJP",
     "image_banner_YD9d6B",
     "multicolumn",
     "image_with_text_aXKLcK",
