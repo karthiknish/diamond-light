@@ -430,7 +430,7 @@
     "custom_liquid_Rib47B": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style='display:flex;align-items:center;justify-content:center'><a href=\"https://diamondlights.uk/pages/about-us\" class='button'>More FAQs</a></div>",
+        "custom_liquid": "<div style='display:flex;align-items:center;justify-content:center'><a href=\"https://diamondlights.uk/pages/faqs\" class='button'>More FAQs</a></div>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
