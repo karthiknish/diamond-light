@@ -33,11 +33,23 @@
           "settings": {
             "text": "<p>Step into a world of enchantment this holiday season at the <em><strong>Diamond Lights Christmas Light Experience at Waters View, Carsington.</strong></em><em> </em>Running for one sparkling month from <strong>6th December to 5th January</strong>, this spectacular event offers a magical blend of attractions, festive activities, and entertainment. <a href=\"/products/diamondlights-christmas-market\" title=\"DiamondLights Christmas Market\">Book your tickets</a> now to share in the wonder and create lasting memories with family and friends.</p>"
           }
+        },
+        "button_JKQqnA": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "shopify://products/diamondlights-christmas-market",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "button_JKQqnA"
       ],
       "settings": {
         "desktop_content_position": "center",
