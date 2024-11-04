@@ -24,6 +24,16 @@
           "settings": {
           }
         },
+        "evey_events_tickets_event_location_hc7VEM": {
+          "type": "shopify://apps/evey-events-tickets/blocks/event-location/0ff19eb4-83c2-40c2-b780-a501fc99b6d8",
+          "settings": {
+            "show_icon": true,
+            "padding_x": 0,
+            "padding_y": 0,
+            "link_location": true,
+            "show_address": true
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -70,6 +80,7 @@
       "block_order": [
         "vendor",
         "title",
+        "evey_events_tickets_event_location_hc7VEM",
         "caption",
         "price",
         "variant_picker",
