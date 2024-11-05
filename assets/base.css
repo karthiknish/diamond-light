@@ -120,6 +120,9 @@ min-width:100%;
 .icon-cart-empty{
   color:white;
 }
+.Avada-Faqs_Button #Avada-FAQ_WidgetTrigger{
+  font-family:'DM Sans' !important;
+}
 @media screen and (min-width: 750px) {
   .page-width {
     padding: 0 5rem;
