@@ -103,6 +103,7 @@
         },
         "collapsible_row_3apcr4": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Are dogs allowed?",
             "icon": "snowflake",
