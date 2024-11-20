@@ -120,7 +120,7 @@
         "row_zdrX4V": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Cozy_Up_for_Santa.png",
+            "image": "shopify://shop_images/Real_Scene_Photograph_from_Explore.png",
             "caption": "",
             "heading": "Meet Santa",
             "text": "<p>Meet Santa Claus (INCLUDED IN THE TICKETS) in an unforgettable setting overlooking the beautiful Waters View in Carsington! This cosy, festive experience is ideal for families, giving little ones a magical chance to greet Santa in a truly enchanting atmosphere.</p>",
@@ -246,7 +246,7 @@
           "settings": {
             "image": "shopify://shop_images/Local_traders.png",
             "title": "Shop & Discover",
-            "text": "<p>Browse up to 40 local and national traders, offering a variety of unique gifts, handcrafted treasures, and festive goods perfect for holiday shopping.</p>",
+            "text": "<p>Browse our local and national traders, offering a variety of unique gifts, handcrafted treasures, and festive goods perfect for holiday shopping.</p>",
             "link_label": "",
             "link": "shopify://pages/vendors"
           }
@@ -263,6 +263,7 @@
         },
         "column3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Holiday_Spirit_Fairground.png",
             "title": "Fairground Rides",
@@ -273,6 +274,7 @@
         },
         "column_HcRayF": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Live_performances.png",
             "title": "Live Performances",
@@ -283,6 +285,7 @@
         },
         "column_44jBUn": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Magical_Moments_with_Beloved_Characters.png",
             "title": "Meet Iconic Characters",
