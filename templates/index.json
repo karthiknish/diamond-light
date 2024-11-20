@@ -15,7 +15,16 @@
         "custom_liquid": "<style>\n\n.video-container {\n    position: relative;\n    display: inline-block;\n    width: 100%;\n    max-width: 100%;\n}\n\n.video-container video {\n    display: block;\n    width: 100%;\n    height: auto;\nfilter: brightness(75%);\n}\n\n.video-logo {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    max-width: 40%; /* Adjust size as needed */\n   \n}\n</style>\n<div class=\"video-container\">\n    <video autoplay loop muted width=\"100%\" height=\"auto\" preload=\"metadata\">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/8956ce52978c468c8ade279cffc22fd8.mp4\" type=\"video/mp4\">\n        Your browser does not support the video tag.\n    </video>\n    <img src=\"https://cdn.shopify.com/s/files/1/0884/8169/4031/files/Diamond_Lights_White.png?v=1730115427\" alt=\"Logo\" class=\"video-logo\">\n</div>",
         "color_scheme": "",
         "padding_top": 0,
-        "padding_bottom": 52
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_M3TTPV": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style='padding-left:20%;padding-right:20%;text-align:center;font-size:12px;'><p>Disclaimer: The video footage and imagery featured on this website showcase highlights from one of our previous events. These visuals are provided for illustrative purposes only and may not reflect the exact details of the current event. Prepare to experience something fresh and extraordinary as we close out 2024!</p></div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "rich_text": {
@@ -448,6 +457,7 @@
   },
   "order": [
     "custom_liquid_PGPfTX",
+    "custom_liquid_M3TTPV",
     "rich_text",
     "rich_text_TMhXB8",
     "multirow_YfiXYG",
