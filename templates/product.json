@@ -42,6 +42,13 @@
             "show_address": true
           }
         },
+        "text_7cMaeb": {
+          "type": "text",
+          "settings": {
+            "text": "Post Code - DE4 4DD",
+            "text_style": "subtitle"
+          }
+        },
         "caption": {
           "type": "text",
           "settings": {
@@ -100,6 +107,7 @@
         "vendor",
         "title",
         "evey_events_tickets_event_location_hc7VEM",
+        "text_7cMaeb",
         "caption",
         "price",
         "text_kKYFgz",
